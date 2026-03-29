@@ -3,8 +3,11 @@
 ## Student Details
 
 Name: Aditya Bakshi
+
 Registration Number: 25BCE10475
+
 Branch: B.Tech Computer Science and Engineering
+
 Course Code: CSE0001
 ________________________________________
 ## Project Overview
