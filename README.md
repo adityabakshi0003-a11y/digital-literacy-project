@@ -9,6 +9,7 @@ Registration Number: 25BCE10475
 Branch: B.Tech Computer Science and Engineering
 
 Course Code: CSE0001
+
 ---
 ## Project Overview
 This project was completed as part of the Digital Literacy course with the objective of developing awareness about responsible and effective use of digital technologies. As a Student Digital Ambassador, my role was to create useful resources that help peers understand digital tools, online safety, and professional communication.
