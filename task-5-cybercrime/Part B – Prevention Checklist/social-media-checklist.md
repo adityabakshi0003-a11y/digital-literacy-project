@@ -47,7 +47,8 @@ Quick Reference Summary
 |---|---|
 | Category | Key Rule |
 | Passwords | Strong + unique for every account |
-| UPI/Banking | Never share PIN or OTP — everLinks & QR CodesVerify before you click or scan |
+| UPI/Banking | Never share PIN or OTP — ever |
+| Links & QR Codes | Verify before you click or scan |
 | Wi-Fi | Avoid public networks for sensitive tasks |
 | Apps | Official stores onlySocial MediaKeep personal details private |
 | Social Media | Keep personal details private |
