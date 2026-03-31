@@ -42,7 +42,7 @@ The following tips are specifically relevant to UPI and digital payments used wi
 
 ---
 
-Quick Reference Summary
+# Quick Reference Summary
 | | |
 |---|---|
 | **Category** | **Key Rule** |
